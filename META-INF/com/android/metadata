@@ -1,0 +1,4 @@
+post-build=cyanogenmod/htc_marvel/marvel:4.1.1/ASNASN0020121119/0.1:user/release-keys
+post-timestamp=1353362572
+pre-bootloader=*
+pre-device=marvel
